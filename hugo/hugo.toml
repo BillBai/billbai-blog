@@ -1,10 +1,10 @@
 baseURL = 'https://blog.billbai.me/'
 languageCode = 'en-us'
-title = 'bill bai blog'
+title = "bill bai's blog"
 theme = 'paper'
 
 [params]
-# color style
+  # color style
   color = 'wheat'                           # linen, wheat, gray, light
 
   # header social icons
@@ -16,9 +16,9 @@ theme = 'paper'
   rss = true                                # show rss icon
 
   # home page profile
-  # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  # name = 'bill bai'
-  # bio = 'a developer'
+  avatar = 'https://s11.ax1x.com/2024/01/04/pixCcCV.png'                 # gravatar email or image url
+  name = 'bill bai'
+  bio = 'a frog/developer'
 
   # misc
   # disableHLJS = true                        # disable highlight.js
@@ -27,3 +27,4 @@ theme = 'paper'
   # gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true
+
