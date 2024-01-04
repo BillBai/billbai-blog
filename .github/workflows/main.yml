@@ -32,8 +32,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          EXTERNAL_REPOSITORY: billbai/billbai.github.io
-          PUBLISH_BRANCH: main
-          PUBLISH_DIR: ./hugo/public
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: billbai/billbai.github.io
+          publish_branch: main
+          publish_dir: ./hugo/public
           commit_message: ${{ github.event.head_commit.message }}
