@@ -1,3 +1,6 @@
 [submodule "hugo/themes/archie"]
 	path = hugo/themes/archie
 	url = https://github.com/athul/archie.git
+[submodule "hugo/themes/paper"]
+	path = hugo/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
