@@ -5,7 +5,7 @@ theme = 'paper'
 
 [params]
 # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  color = 'wheat'                           # linen, wheat, gray, light
 
   # header social icons
   # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
@@ -21,7 +21,7 @@ theme = 'paper'
   # bio = 'a developer'
 
   # misc
-  disableHLJS = true                        # disable highlight.js
+  # disableHLJS = true                        # disable highlight.js
   disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
   # gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
