@@ -1,3 +1,6 @@
 [submodule "hugo/themes/paper"]
 	path = hugo/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "hugo/themes/smol"]
+	path = hugo/themes/smol
+	url = https://github.com/colorchestra/smol
